@@ -5,8 +5,8 @@ Tao M W, Srinivasan P P, Malik J, et al. [Depth from shading, defocus, and corre
 
 This package contains the following:
 
-**I.  depth_regularization.m**: estimates initial depth of a Lytro LF Image with defocus and Correspondence 
-**II.  depth_regularization_shading.m**: estimates final depth of a Lytro LF Image with defocus and Correspondence and shading
-**III. input** : input image
-**IV. output:** output result
-**go.m** is an example for compute_LFdepth.m
+**I.  depth_regularization.m**: estimates initial depth of a Lytro LF Image with defocus and Correspondence   
+**II.  depth_regularization_shading.m**: estimates final depth of a Lytro LF Image with defocus and Correspondence and shading  
+**III. input** : input image  
+**IV. output:** output result  
+**go.m** is an example for compute_LFdepth.m  
